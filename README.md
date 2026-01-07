@@ -86,7 +86,7 @@ By using NIGHTBYTE, you agree to:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/BLACKYYY/NIGHTBYTE.git
+git clone https://github.com/blackice-x/NIGHTBYTE.git
 cd NIGHTBYTE
 bash installer.sh
 🔗 Useful GitHub Links
